@@ -6,7 +6,7 @@ let  linguagensDeProgramacao = ['JavaScript','C','C++', 'Kotlin', 'Python']
 console.log(linguagensDeProgramacao)
 
 //Adicione à lista linguagensDeProgramacao os seguintes elementos: 'Java', 'Ruby' e 'GoLang'.
-linguagensDeProgramacao.push('TypeScript', 'Java')
+linguagensDeProgramacao.push('TypeScript', 'Java', 'Golang')
 console.log(linguagensDeProgramacao)
 
 //Crie uma lista com 3 nomes e exiba no console apenas o primeiro elemento.
